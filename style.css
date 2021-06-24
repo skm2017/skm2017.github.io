@@ -1,5 +1,6 @@
 body {
     background-color: #141414;
+	background-image: url('bg.png');
     margin: 0;
     padding: 0;
     overflow-x: hidden;
